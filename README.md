@@ -1,5 +1,5 @@
 # Intellio
-minimal project for system assistants for devs
+minimal project for system assistance for devs
 
 
 # Description 
